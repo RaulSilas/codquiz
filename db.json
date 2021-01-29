@@ -4,25 +4,27 @@
   "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
-      "description": "Essa é pra aquecer",
-      "answer": 2,
+      "image": "https://media.giphy.com/media/xTiTnmE4Vz0kQq08rS/giphy.gif",
+      "title": "Qual é o nome do próximo mapa de zombies do Call of Duty Cold War",
+      "description": "Maxis!",
+      "answer": 1,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Nuketown Z",
+        "Firebase Z ",
+        "Die Maschine",
+        "Origins"
       ]
     },
     {
       "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
+      "title": "Qual é o nome do perk revelado junto com o mapa? ",
+      "description": "Rest In Peace",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+        "Thumb Stone",
+        "Widows Wine",
+        "PHD Flopper",
+        "Mule Kick"
       ]
     }
   ],
